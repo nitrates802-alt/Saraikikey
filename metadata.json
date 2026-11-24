@@ -1,0 +1,6 @@
+{
+  "name": "Saraiki Pro",
+  "description": "Offline-first trilingual Android keyboard for Saraiki, Urdu, and English with real-time local word learning, Gboard-style popups, and Material 3 customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

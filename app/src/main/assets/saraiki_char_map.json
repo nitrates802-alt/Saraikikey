@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "language": "saraiki",
+  "script": "Arabic",
+  "mandatory_unicode_chars": [
+    { "char": "ٻ", "codepoint": "U+067B", "name": "Arabic Letter Beeh" },
+    { "char": "ڄ", "codepoint": "U+0684", "name": "Arabic Letter Dyeh" },
+    { "char": "ڳ", "codepoint": "U+06B3", "name": "Arabic Letter Gueh" },
+    { "char": "ڱ", "codepoint": "U+06B1", "name": "Arabic Letter Ngoeh" },
+    { "char": "ڋ", "codepoint": "U+068B", "name": "Arabic Letter Dal with Dot Below and Small Tah" },
+    { "char": "ݨ", "codepoint": "U+0768", "name": "Arabic Letter Noon with Small Tah" },
+    { "char": "ݮ", "codepoint": "U+076E", "name": "Arabic Letter Hah with Small Arabic Letter Tah Below" }
+  ],
+  "long_press_popups": {
+    "ج": { "items": ["ڄ"], "centerIndex": 0 },
+    "د": { "items": ["ڋ"], "centerIndex": 0 },
+    "ن": { "items": ["ݨ"], "centerIndex": 0 },
+    "ب": { "items": ["ٻ"], "centerIndex": 0 },
+    "گ": { "items": ["ڱ", "ڳ"], "centerIndex": 1 },
+    "چ": { "items": ["ݮ"], "centerIndex": 0 },
+    "ا": { "items": ["آ", "أ", "إ"], "centerIndex": 1 },
+    "ر": { "items": ["ڑ"], "centerIndex": 0 },
+    "ت": { "items": ["ٹ", "ث"], "centerIndex": 0 },
+    "ہ": { "items": ["ھ", "ۂ"], "centerIndex": 0 },
+    "ی": { "items": ["ئ", "ے"], "centerIndex": 0 },
+    "و": { "items": ["ؤ"], "centerIndex": 0 },
+    "س": { "items": ["ص"], "centerIndex": 0 },
+    "ز": { "items": ["ژ", "ض"], "centerIndex": 0 },
+    "ط": { "items": ["ظ"], "centerIndex": 0 },
+    "ح": { "items": ["خ"], "centerIndex": 0 },
+    "ع": { "items": ["غ"], "centerIndex": 0 }
+  },
+  "western_arabic_numerals_only": true
+}

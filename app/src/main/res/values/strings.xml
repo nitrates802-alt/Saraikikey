@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saraiki Pro</string>
+    <string name="ime_service_label">Saraiki Pro Keyboard</string>
+    <string name="subtype_saraiki">Saraiki (سرائیکی)</string>
+    <string name="subtype_urdu">Urdu (اردو)</string>
+    <string name="subtype_english">English (QWERTY)</string>
+
+    <string name="wizard_title">Set Up Saraiki Pro</string>
+    <string name="wizard_subtitle">Trilingual offline keyboard for Saraiki, Urdu &amp; English</string>
+    <string name="wizard_step1_title">1. Enable Keyboard</string>
+    <string name="wizard_step1_desc">Turn on Saraiki Pro Keyboard in Android System Input Settings.</string>
+    <string name="wizard_step1_cta">Open Input Settings</string>
+    <string name="wizard_step2_title">2. Select Input Method</string>
+    <string name="wizard_step2_desc">Choose Saraiki Pro Keyboard as your active keyboard.</string>
+    <string name="wizard_step2_cta">Choose Keyboard</string>
+    <string name="wizard_step3_title">3. Live Interactive Test</string>
+    <string name="wizard_step3_desc">Long-press گ for ڳ and ڱ, top keys for 1-0, or test word learning below.</string>
+    <string name="wizard_test_hint">Tap here to type in Saraiki, Urdu, or English…</string>
+
+    <string name="ime_incognito_active">Incognito mode: learning &amp; clipboard paused</string>
+    <string name="ime_forget_word_action">Forget "%1$s"</string>
+    <string name="ime_undo_delete">Undo delete</string>
+    <string name="ime_voice_listening">Listening…</string>
+    <string name="ime_voice_permission_needed">Microphone access is required for voice typing.</string>
+    <string name="ime_clipboard_empty">No copied snippets yet</string>
+    <string name="ime_clipboard_protected">Clipboard hidden in sensitive fields</string>
+    <string name="ai_studio_title">AI Writing Assistant</string>
+    <string name="ai_drawer_input_hint">Type text or leave blank for a sample…</string>
+    <string name="ai_drawer_empty_output">Choose an AI action above to preview sample output.</string>
+</resources>
